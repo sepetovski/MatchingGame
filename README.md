@@ -1,3 +1,9 @@
+The Game works like this:
+Simple
+
+Click on two tiles next to one another, they try to swap positions if one of them makes a veretical or horizontal with at lest two other tiles of the same type the match and you are given 10 points for each individual tile. Then the tiles above fall in the place of the matched now removed tiles and above them are generated new random tiles that fill up the board.
+
+
 ![Pygame Match-3 6_24_2025 9_32_43 PM](https://github.com/user-attachments/assets/a4c68b77-abf3-4fa9-8ab3-83aeb5eab904)
 
 
